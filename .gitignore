@@ -1,0 +1,8 @@
+__pycache__/
+logs/
+plugins/
+.env
+*.pyc
+*.pkl
+*.sav
+*env*
